@@ -3,8 +3,8 @@
 title: 陈智能
 
 # Full name (for SEO)
-first_name: Ya Meng
-last_name: Ray
+first_name: Zhineng
+last_name: Cheng
 
 # Status emoji
 status:
@@ -23,22 +23,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - OCR
-  - UE Game Design
-
-# Education to show in About widget
-education:
-  courses:
-    - course: Master in Computer Science
-      institution: Fudan University
-      year: Now
-    - course: BS in Data Science
-      institution: Fudan University
-      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

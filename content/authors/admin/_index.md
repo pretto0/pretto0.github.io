@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Programer
+role: 青年研究员、博士生导师
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -40,46 +40,6 @@ education:
       institution: Fudan University
       year: 2023
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -104,5 +64,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi there! I am a master student in [Computer Science at the Fudan University](https://cs.fudan.edu.cn/), under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=zh-CN) and Prof. [Zhineng Chen](https://scholar.google.com/citations?user=RS4jR14AAAAJ&hl=en). Before that, I completed my Bachelor’s degree in Fudan University of Data Science in July 2023.
+复旦大学计算机科学技术学院青年研究员、博士生导师，上海市智能视觉计算协同创新中心副主任，上海市计算机学会多媒体专委会主任。主要研究方向为多媒体分析与检索、计算机视觉、生物医疗图像分析。相关研究成果发表在IJCV、CVPR、ICCV、AAAI、IJCAI、ACM MM、WWW、IEEE TMM、ACM TOMM、计算机学报等相关领域权威期刊和会议上。担任ACM MM、AAAI、IEEE ICME等国际会议的领域主席、高级程序委员等。主持承担了2项国家重点研发计划课题和4项国家自然科学基金项目，以及多项百度、腾讯、交通部公路院、软控等知名企事业单位的横向科研项目，所研发技术系统部署应用在多个行业和部门。
 {style="text-align: justify;"}

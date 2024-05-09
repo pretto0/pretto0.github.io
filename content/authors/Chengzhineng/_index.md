@@ -22,15 +22,19 @@ organizations:
     url: https://cs.fudan.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-
+# graduation-cap
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=RS4jR14AAAAJ&hl=en
+
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=RS4jR14AAAAJ&hl=en
+    link: https://cs.fudan.edu.cn/3f/e7/c25886a278503/page.htm
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---

@@ -54,7 +54,6 @@ sections:
 
           - 2024.05：这是一个新闻示例
 
-
           - 2024.05：🎉 个人主页搭建完成
 
     design:
@@ -86,7 +85,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: card
       columns: '2'
 
   - block: markdown

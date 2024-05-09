@@ -37,14 +37,14 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023*
+publication_short: In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023*
 
 abstract: 
 
 # Summary. An optional shortened abstract.
 
-summary: 
+summary:
 
 tags: []
 

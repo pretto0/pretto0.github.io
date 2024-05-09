@@ -32,12 +32,12 @@ date: '2023-05-08T00:00:00Z'
 
 # Enter a publication type from the CSL standard.
 
-publication_types: ['paper-conference']
+publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *International Journal of Machine Learning and Cybernetics (IJMLC) 2023*
+publication_short: In *International Journal of Machine Learning and Cybernetics (IJMLC) 2023*
 
 abstract: 
 

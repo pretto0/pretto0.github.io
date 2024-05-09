@@ -36,8 +36,8 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *International Conference on Multimedia Retrieval (ICMR) 2021*
+publication_short: In *International Conference on Multimedia Retrieval (ICMR) 2021*
 
 abstract: 
 

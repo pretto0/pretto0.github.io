@@ -36,8 +36,8 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Association for the Advancement of Artificial Intelligence (AAAI) 2023*
+publication_short: In *Association for the Advancement of Artificial Intelligence (AAAI) 2023*
 
 abstract: 
 

@@ -36,8 +36,8 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023*
+publication_short: In *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023*
 
 abstract: 
 

@@ -32,12 +32,12 @@ date: '2022-09-01T00:00:00Z'
 
 # Enter a publication type from the CSL standard.
 
-publication_types: ['paper-conference']
+publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Expert Systems with Applications (ESA) 2022*
+publication_short: In *Expert Systems with Applications (ESA) 2022*
 
 abstract: 
 

@@ -37,8 +37,8 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Biomedical Signal Processing and Control (BSPC) 2023*
+publication_short: In *Biomedical Signal Processing and Control (BSPC) 2023*
 
 abstract: 
 

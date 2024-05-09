@@ -1,5 +1,5 @@
 ---
-title: 'Dual Contrastive Learning Guided Pathological Image Re-Staining'
+title: 'Bridge-Net: Context-involved U-net with patch-based loss weight mapping for retinal blood vessel segmentation'
 
 # Authors
 
@@ -8,21 +8,23 @@ title: 'Dual Contrastive Learning Guided Pathological Image Re-Staining'
 # and it will be replaced with their full name and linked to their profile.
 
 authors:
-- Yuexiao Liang
+- Yuan Zhang
+- Miao He
 - Zhineng Chen
-- Xin Chen
-- Xin Chen
-- Caiyan Jia
-- Xiongjun Ye
+- Kai Hu
+- Xuanya Li
 - Xieping Gao
+
 
 # Author notes (optional)
 
 author_notes:
   - 
-  - 'Corresponding author'
+  - 
+  -
+  -
 
-date: '2024-03-24T00:00:00Z'
+date: '2022-09-01T00:00:00Z'
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2024-03-24T00:00:00Z'
 # publishDate: 
@@ -33,12 +35,12 @@ date: '2024-03-24T00:00:00Z'
 
 # Enter a publication type from the CSL standard.
 
-publication_types: ['paper-conference']
+publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024*
-publication_short: In *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024*
+publication: In *Expert Systems with Applications (ESA) 2022*
+publication_short: In *Expert Systems with Applications (ESA) 2022*
 
 abstract: 
 
@@ -60,7 +62,7 @@ featured: true
 
 # url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10446668'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0957417422005139'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -104,5 +106,4 @@ url_video: ''
 
 # slides: example
 ---
-
-Pathological virtual re-staining is a valuable research topic in AI-aided diagnosis, as it reduces the need for costly and time-consuming physical staining. However, existing methods still suffer from the insufficient ability to preserve tissue microstructure and cellular details, making the generated images less convincing. In this paper, we propose a CycleGAN-based dual contrastive learning re-staining method called DCLRStain. DCLRStain establishes dual contrastive learning between the source and re-stained image domains, conducting negative sampling within each image pair from both domains. It guides the model’s attention to finer content such as cellular details. Meanwhile, DCLRStain introduces a structural similarity-based loss term that further forces the tissue microstructure to be consistent between the source and re-stained images. Experimental results demonstrate that DCLRStain yields competitive quantitative scores compared to state-of-the-art models and maintains superior qualitative performance. Moreover, DCLRStain achieves higher accuracy in the downstream classification task.
+Accurate skin lesion segmentation in dermoscopic images is crucial to the early diagnosis of skin cancers. However, it remains a challenging task due to fuzzy lesion boundaries, irregular lesion shapes, and the existence of various interference factors. In this paper, a novel Attention Synergy Network (AS-Net) is developed to enhance the discriminative ability for skin lesion segmentation by combining both spatial and channel attention mechanisms. The spatial attention path captures lesion-related features in the spatial dimension while the channel attention path selectively emphasizes discriminative features in the channel dimension. The synergy module is designed to optimally integrate both spatial and channel information, and a weighted binary cross-entropy loss function is introduced to emphasize the foreground lesion region. Comprehensive experiments indicate that our proposed model achieves the state-of-the-art performance with the highest overall score in the ISIC2017 challenge, and outperforms several popular deep neural networks on both ISIC2018 and PH2 datasets.

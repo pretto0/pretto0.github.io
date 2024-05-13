@@ -31,12 +31,12 @@ date: '2023-07-14T00:00:00Z'
 
 # Enter a publication type from the CSL standard.
 
-publication_types: ['paper-journal']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *International Journal of Computer Vision (IJCV) 2023*
-publication_short: In *International Journal of Computer Vision (IJCV) 2023*
+publication: In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2023*
+publication_short: In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2023*
 
 abstract: 
 

@@ -3,13 +3,14 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-zh:
- languageCode: zh-Hans
- title: 陈智能-个人主页
+# zh:
+#  languageCode: zh-Hans
+#  title: 陈智能-个人主页
 
 
-# en:
-#   languageCode: en-us
+en:
+  languageCode: en-us
+  title: 陈智能-个人主页
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 

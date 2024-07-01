@@ -60,7 +60,7 @@ sections:
       view: compact
       columns: '2'
       background:
-          gradient_end: '#6fa7d7'
+          gradient_end: '#4568aa'
           gradient_start: '#4568aa'
           text_color_light: true
 
@@ -136,7 +136,7 @@ sections:
       view: compact
       columns: '2'
       background:
-          gradient_end: '#6fa7d7'
+          gradient_end: '#4568aa'
           gradient_start: '#4568aa'
           text_color_light: true
 ---

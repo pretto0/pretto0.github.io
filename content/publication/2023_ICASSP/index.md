@@ -1,5 +1,5 @@
 ---
-title: 'Multi-Object Localization and Irrelevant-Semantic Separation for Nuclei Segmentation in Histopathology Images'
+title: "[ICASSP'23]Multi-Object Localization and Irrelevant-Semantic Separation for Nuclei Segmentation in Histopathology Images"
 
 # Authors
 

@@ -1,5 +1,5 @@
 ---
-title: 'Self-distillation Augmented Masked Autoencoders for Histopathological Image Understanding'
+title: "[BIBM'23]Self-distillation Augmented Masked Autoencoders for Histopathological Image Understanding"
 
 # Authors
 

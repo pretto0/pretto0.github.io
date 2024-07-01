@@ -1,5 +1,5 @@
 ---
-title: 'MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition'
+title: "[ICCV'23]MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition"
 
 # Authors
 

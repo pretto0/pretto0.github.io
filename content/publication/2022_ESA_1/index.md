@@ -1,5 +1,5 @@
 ---
-title: 'Bridge-Net: Context-involved U-net with patch-based loss weight mapping for retinal blood vessel segmentation'
+title: "[ESA'22]Bridge-Net: Context-involved U-net with patch-based loss weight mapping for retinal blood vessel segmentation"
 
 # Authors
 

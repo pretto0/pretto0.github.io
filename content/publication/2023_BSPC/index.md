@@ -1,6 +1,6 @@
 ---
-title: 'MMSRNet: Pathological image super-resolution by multi-task and
-multi-scale learning'
+title: "[BSPC'23]MMSRNet: Pathological image super-resolution by multi-task and
+multi-scale learning"
 
 # Authors
 

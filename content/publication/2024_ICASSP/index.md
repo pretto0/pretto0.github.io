@@ -1,5 +1,5 @@
 ---
-title: 'Dual Contrastive Learning Guided Pathological Image Re-Staining'
+title: "[ICASSP'24]Dual Contrastive Learning Guided Pathological Image Re-Staining"
 
 # Authors
 

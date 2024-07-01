@@ -1,5 +1,5 @@
 ---
-title: 'AS-Net: Attention Synergy Network for skin lesion segmentation'
+title: "[ESA'22]AS-Net: Attention Synergy Network for skin lesion segmentation"
 
 # Authors
 

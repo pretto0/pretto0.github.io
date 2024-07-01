@@ -1,5 +1,5 @@
 ---
-title: '3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models'
+title: "[MM'23]3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models"
 
 # Authors
 

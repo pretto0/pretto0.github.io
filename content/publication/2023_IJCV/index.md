@@ -1,5 +1,5 @@
 ---
-title: 'CDistNet: Perceiving Multi-domain Character Distance for Robust Text Recognition'
+title: "[IJCV'23]CDistNet: Perceiving Multi-domain Character Distance for Robust Text Recognition"
 
 # Authors
 

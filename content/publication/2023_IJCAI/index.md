@@ -1,5 +1,5 @@
 ---
-title: 'TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition'
+title: "[IJCAI'23]TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition"
 
 # Authors
 

@@ -1,6 +1,6 @@
 ---
-title: 'Pathological image super‑resolution using mix‑attention generative 
-adversarial network'
+title: "[IJMLC'23]Pathological image super‑resolution using mix‑attention generative 
+adversarial network"
 
 # Authors
 

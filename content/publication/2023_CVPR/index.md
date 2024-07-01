@@ -1,5 +1,5 @@
 ---
-title: 'Prototypical Residual Networks for Anomaly Detection and Localization'
+title: "[CVPR'23]Prototypical Residual Networks for Anomaly Detection and Localization"
 
 # Authors
 

@@ -1,5 +1,5 @@
 ---
-title: 'Bi-Directional Feature Fusion Generative Adversarial Network for Ultra-High Resolution Pathological Image Virtual Re-Staining'
+title: "[CVPR'23]Bi-Directional Feature Fusion Generative Adversarial Network for Ultra-High Resolution Pathological Image Virtual Re-Staining"
 
 # Authors
 

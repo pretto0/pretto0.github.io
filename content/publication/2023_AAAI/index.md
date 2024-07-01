@@ -1,5 +1,5 @@
 ---
-title: 'Resolving Task Confusion in Dynamic Expansion Architectures for Class Incremental Learning'
+title: "[AAAI'23]Resolving Task Confusion in Dynamic Expansion Architectures for Class Incremental Learning"
 
 # Authors
 

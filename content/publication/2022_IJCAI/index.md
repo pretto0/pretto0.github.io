@@ -1,5 +1,5 @@
 ---
-title: 'SVTR: Scene Text Recognition with a Single Visual Model'
+title: "[IJCAI'22]SVTR: Scene Text Recognition with a Single Visual Model"
 
 # Authors
 

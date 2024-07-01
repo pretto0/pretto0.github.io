@@ -1,5 +1,5 @@
 ---
-title: 'Genre-Conditioned Long-Term 3D Dance Generation Driven by Music'
+title: "[ICASSP'22]Genre-Conditioned Long-Term 3D Dance Generation Driven by Music"
 
 # Authors
 

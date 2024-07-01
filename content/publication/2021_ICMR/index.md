@@ -1,5 +1,5 @@
 ---
-title: 'Bag of Tricks for Building an Accurate and Slim Object Detector for Embedded Applications'
+title: "[ICMR'21]Bag of Tricks for Building an Accurate and Slim Object Detector for Embedded Applications"
 
 # Authors
 

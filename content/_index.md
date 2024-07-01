@@ -59,6 +59,10 @@ sections:
     design:
       view: compact
       columns: '2'
+      background:
+          gradient_end: '#6fa7d7'
+          gradient_start: '#4568aa'
+          text_color_light: true
 
   - block: collection
     id: publication
@@ -67,7 +71,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 10
+      count: 6
       # Filter on criteria
       filters:
         folders:
@@ -85,8 +89,12 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: card
       columns: '2'
+      # background:
+      #   gradient_end: '#1976d2'
+      #   gradient_start: '#004ba0'
+      #   text_color_light: true
 
   - block: markdown
     id: members
@@ -127,4 +135,8 @@ sections:
     design:
       view: compact
       columns: '2'
+      background:
+          gradient_end: '#6fa7d7'
+          gradient_start: '#4568aa'
+          text_color_light: true
 ---

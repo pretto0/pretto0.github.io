@@ -1,5 +1,5 @@
 ---
-title: "[AAAI'24]LRANet: Towards Accurate and Effcient Scene Text Detection with Low-Rank
+title: "[AAAI'24 oral]LRANet: Towards Accurate and Effcient Scene Text Detection with Low-Rank
 Approximation Network"
 
 # Authors

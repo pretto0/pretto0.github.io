@@ -1,5 +1,5 @@
 ---
-title: "[IJCV'23]CDistNet: Perceiving Multi-domain Character Distance for Robust Text Recognition"
+title: "[IJCV'24]CDistNet: Perceiving Multi-domain Character Distance for Robust Text Recognition"
 
 # Authors
 
@@ -20,7 +20,7 @@ author_notes:
   - 
   - 'Corresponding author'
 
-date: '2023-09-04T00:00:00Z'
+date: '2024-07-02T00:00:00Z'
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2024-09-24T00:00:00Z'
 # publishDate: 
@@ -35,8 +35,8 @@ publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *International Journal of Computer Vision (IJCV) 2023*
-publication_short: In *International Journal of Computer Vision (IJCV) 2023*
+publication: In *International Journal of Computer Vision (IJCV) 2024*
+publication_short: In *International Journal of Computer Vision (IJCV) 2024*
 
 abstract: 
 
